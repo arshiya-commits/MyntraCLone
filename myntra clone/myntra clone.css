@@ -1,0 +1,112 @@
+*{
+    padding:0;
+    margin: 0;
+    color:black;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: white;
+   height:60px;
+   width:100%;
+   box-shadow: 0 4px 12px 0 rgba(0,0,0,0.5);
+
+}
+.logo{
+    height:50px;
+    width: 60px;
+}
+.hi{
+   text-transform: uppercase; 
+   text-decoration: none;
+}
+.hi{
+    margin-left:50px ;
+    margin-right:70px;
+}
+#hi{
+    padding-right:50px;
+    padding-left:60px;
+
+}
+.flex{
+    display: flex;
+}
+.items{
+    align-items: center;
+}
+.justify{
+    justify-content: center;
+}
+.search{
+    height:15px;
+    width:300px;
+}
+.change{
+    text-align: center;
+          margin-bottom: 100px;
+          font-size: 50px;
+    
+}
+.sale{
+    height:300px;
+    width:1600px;
+}
+.women{
+    height:50px;
+    width: 100px;
+    margin-bottom: 30px;;
+}
+.log{
+    height:450px ;
+    width: 1600px;
+    margin-top:15px;
+    border:2px solid rgb(211, 21, 52);
+
+}
+.foot{
+    text-align: center;
+    margin-top:400PX;
+    font-size: 50px;
+
+}
+.wear{
+    height:50px;
+    width: 100px;
+    margin-bottom: 70px;
+}
+.log1{
+    height:300px ;
+    width: 1500px;
+}
+.products{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 40px;
+
+}
+.loved{
+    height:50px;
+    width: 100px;
+    margin-bottom: 70px;
+
+}
+.things{
+    height:300px ;
+    width: 1500px;
+}
+.footer{
+    background-color:rgb(243, 94, 119);
+    height:150px;
+    display:flex;
+    justify-content: space-evenly;
+    font-style: oblique;
+    text-align: center;
+    color:whitesmoke;
+}
+ul a{
+    display:block;
+}
+
+
+
+
